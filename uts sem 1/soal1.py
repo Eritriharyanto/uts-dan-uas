@@ -1,0 +1,1 @@
+print("semangat ujian tengah semester anak jendral")
